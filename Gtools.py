@@ -9,6 +9,7 @@ def main():
   banner()
   print" GTX AUTO INSTALL EXPLOIT TOOLS"
   print" CREATED BY: YUKKI666"
+  print" RECODE BY: JAEXPLOIT
   print" Version : Beta Ver"
   print" THANKS FOR : Garuda Tersakti 72"
   print"\n (01) Metasploit"
